@@ -102,7 +102,7 @@ export default function Home() {
         <div className="container mx-auto px-4 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2 cursor-pointer" onClick={() => scrollTo('hero')} data-testid="link-logo">
             <Bike className="h-6 w-6 text-primary" />
-            <span className="font-bold text-xl tracking-tight text-primary">Pedal Pro</span>
+            <span className="font-bold text-xl tracking-tight text-primary">Ayo Sepedaan</span>
           </div>
 
           {/* Desktop Nav */}
@@ -307,7 +307,7 @@ export default function Home() {
             <div>
               <div className="flex items-center gap-2 mb-6">
                 <Bike className="h-8 w-8 text-secondary" />
-                <span className="font-black text-2xl tracking-tight text-white">Pedal Pro</span>
+                <span className="font-black text-2xl tracking-tight text-white">Ayo Sepedaan</span>
               </div>
               <p className="text-slate-400 leading-relaxed">
                 Where serious cyclists come for gear they can trust — precise, confident, and built for the road or trail. Your journey starts here.
@@ -365,7 +365,7 @@ export default function Home() {
           </div>
 
           <div className="pt-8 border-t border-white/10 text-center text-slate-500 text-sm">
-            <p>&copy; 2024 Pedal Pro. All rights reserved.</p>
+            <p>&copy; 2024 Ayo Sepedaan. All rights reserved.</p>
           </div>
         </div>
       </footer>
